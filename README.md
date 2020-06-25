@@ -1,2 +1,2 @@
 # Conversion of String to Character:
-We can convert a String to char using charAt() 
+We can convert a String to char using charAt() method of String class.
